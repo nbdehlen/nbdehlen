@@ -1,14 +1,14 @@
-## Hi 👋, I'm Bastian
+## Hi, I'm Bastian 👋
 I'm a developer in Stockholm currently doing my final thesis for a two year education in Full-stack web development.
 
 ## Projects
-- **Final thesis project**: In planning stages
-- [SpaceX launches](https://github.com/nbdehlen/spacex): React-Native, GraphQL, Apollo, Firestore
+- **Final thesis project**: In planning stages.
+- [SpaceX launches](https://github.com/nbdehlen/spacex): React-Native, GraphQL, Apollo, Firestore.
 - [Workout tracker](https://github.com/nbdehlen/workout-tracker)
-  -  App: React-Native, TypeScript, Redux, styled-components
-  -  Backend: Express, MongoDB, JWT
-- [Tinder clone](https://github.com/lkritsimas/u10-business-idea): Development halted indefinitely. TypeScript, React, Express, PostgreSQL 
-- [Weather app](https://github.com/nbdehlen/u09-react-weather-app): React, TailwindCSS
+  -  App: React-Native, TypeScript, Redux, styled-components.
+  -  Backend: Express, MongoDB, JWT.
+- [Tinder clone](https://github.com/lkritsimas/u10-business-idea): Development halted indefinitely. TypeScript, React, Express, PostgreSQL.
+- [Weather app](https://github.com/nbdehlen/u09-react-weather-app): React, TailwindCSS.
 
 ## Tech
 Some I use frequently, others I haven't touched in a while. <a href="www.linkedin.com/in/bastian000">Get in touch</a> and let me tell you more! :smiley:
