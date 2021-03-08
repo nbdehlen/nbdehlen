@@ -135,7 +135,7 @@ Some I use frequently, others I haven't touched in a while. <a href="https://www
 
 
 ## Other
-<a href="https://leetcode.com/nbdehlen" target="_blank">LeetCode</a> 
+<a href="https://leetcode.com/nbdehlen" target="_blank">LeetCode</a>   
 <a href="https://www.freecodecamp.org/nbdehlen" target="_blank">FreeCodeCamp</a> 
   
 ## Contact
